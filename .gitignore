@@ -1,4 +1,6 @@
 HELP.md
+rebel.xml
+.java-version
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
